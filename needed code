@@ -1,0 +1,66 @@
+      <!--Recent Project-->
+      <section class="bg-light py-lg-10 py-6">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="mb-8">
+                     <h2 class="mb-0">Our Recent Jobs</h2>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-lg-4 col-md-6">
+                  <!--Project Start-->
+                  <div class="mb-5">
+                     <figure class="mb-0">
+                        <a href="#!">
+                           <img src="assets/images/project/7.png" alt="project" class="w-100 mb-4" />
+                        </a>
+                     </figure>
+                     <div>
+                        <h3 class="fs-4">
+                           <a href="#!" class="text-reset">Hosted The Johnson's Return</a>
+                        </h3>
+                        <span>Location: Port Harcourt</span>
+                     </div>
+                  </div>
+                  <!--Project End-->
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <!--Project Start-->
+                  <div class="mb-5">
+                     <figure class="mb-0">
+                        <a href="#!">
+                           <img src="assets/images/project/8.png" alt="project" class="w-100 mb-4" />
+                        </a>
+                     </figure>
+                     <div>
+                        <h3 class="fs-4">
+                           <a href="#!" class="text-reset">Provision of Security For Chief Preye</a>
+                        </h3>
+                        <span>Location: Classifed</span>
+                     </div>
+                  </div>
+                  <!--Project end-->
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <!--Project Start-->
+                  <div class="mb-5">
+                     <figure class="mb-0">
+                        <a href="#!">
+                           <img src="assets/images/project/9.png" alt="project" class="w-100 mb-4" />
+                        </a>
+                     </figure>
+                     <div>
+                        <h3 class="fs-4">
+                           <a href="#!" class="text-reset">Delivering of Food to NYSC camp</a>
+                        </h3>
+                        <span>Location: Osun</span>
+                     </div>
+                  </div>
+                  <!--Project End-->
+               </div>
+            </div>
+         </div>
+      </section>
+      <!--Recent Project-->
